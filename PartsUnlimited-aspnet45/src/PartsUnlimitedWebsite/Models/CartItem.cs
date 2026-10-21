@@ -1,6 +1,5 @@
-﻿// commentaire modifiéusing System;
-using System.ComponentModel.DataAnnotations;
-
+﻿
+// commentaire categorie
 namespace PartsUnlimited.Models
 {
     public class CartItem : ILineItem
